@@ -7,7 +7,7 @@
     "test": "npx test"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/MazuttiGuilherme/ichoveu.git"
   },
   "author": "mazutti",
