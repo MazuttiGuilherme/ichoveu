@@ -1,0 +1,24 @@
+{
+  "name": "ichoveu",
+  "version": "1.0.0",
+  "description": "previsao do tempo sensacional",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MazuttiGuilherme/ichoveu.git"
+  },
+  "author": "mazutti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MazuttiGuilherme/ichoveu/issues"
+  },
+  "homepage": "https://github.com/MazuttiGuilherme/ichoveu#readme",
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.4",
+    "bootstrap": "^5.3.1",
+    "vite": "^4.4.9"
+  }
+}
